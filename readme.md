@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hafiz Usman Aftab
 
 ## About Me
-Hello, I'm Hafiz Usman! I bring extensive experience in machine learning and artificial intelligence. My expertise spans the development and training of sophisticated AI models, with a keen focus on applying AI solutions to real-world problems.
+I bring extensive experience in machine learning and artificial intelligence. My expertise spans the development and training of sophisticated AI models, with a keen focus on applying AI solutions to real-world problems.
 
 ## Professional Journey
 - **AI Model Development**: Specializing in creating and fine-tuning models for predictive analytics, natural language processing, and computer vision.
